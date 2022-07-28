@@ -13,11 +13,5 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 contact: collazo.valentino@gmail.com
 
-<a
-  href="https://personal-portfolio-web.herokuapp.com"
-  className="btn"
-  target="_blank"
-  rel="noreferrer"
->
-  Personal Page
-</a>
+Personal Page: "https://personal-portfolio-web.herokuapp.com"
+Linkedin: "https://linkedin.com/in/valentino-oscar-collazo-1b9551236"
