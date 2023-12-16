@@ -1,17 +1,15 @@
-<h1 align="center">Hi, I'm Valentino</h1>
-# Looking for a job as a Web Developer
+<h1 align="center">Valentino</h1>
+
+<h3 align="center" >Web Dev by day, Game Dev by night/h1>
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-I have been learning some of the most used techonlogies in Web Development and making some cool projects with them. I have also made some games with the open source game engine Godot.
-
-The techonologies I have been using include (but not limited to): React, Redux, Material-UI, AntDesign, i18-next, Node, Express, MongoDB, GraphQL, Heroku, Axios, Thunk
+A versatile software developer that doesn't hesitate at the opportunity to learn a new tech, library or framework, always with the end user in mind, which in most cases is a common citizen. This led me on a path to specialize  on frontend web development.
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 contact: collazo.valentino@gmail.com
-
-Personal Page: "https://personal-portfolio-web.herokuapp.com"
+Portfolio: "https://portfolio-valentino-02.vercel.app"
 Linkedin: "https://linkedin.com/in/valentino-oscar-collazo-1b9551236"
