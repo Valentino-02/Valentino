@@ -1,6 +1,6 @@
 <h1 align="center">Valentino</h1>
 
-<h3 align="center" >Web Dev by day, Game Dev by night/h1>
+<h3 align="center" >Web Dev by day, Game Dev by night</h3>
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
