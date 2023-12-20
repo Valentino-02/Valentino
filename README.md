@@ -18,6 +18,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <h5>contact: collazo.valentino@gmail.com</h5>
 <h5>Portfolio: <a>https://portfolio-valentino-02.vercel.app</a></h5>
-<h5>Linkedin: <a>https://linkedin.com/in/valentino-oscar-collazo-1b9551236</a></h5>
+<h5>Linkedin: <a>www.linkedin.com/in/valentino-collazo-1b9551236</a></h5>
 
 
